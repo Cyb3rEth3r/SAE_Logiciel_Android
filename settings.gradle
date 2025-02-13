@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SAE_Logiciel_Android"
+rootProject.name = "projet_2_b"
 include ':app'
